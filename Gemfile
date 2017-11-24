@@ -51,4 +51,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 group :test do
 	gem "capybara", "~> 2.16.1"
+	gem "factory_bot_rails"
 end
